@@ -6,11 +6,11 @@ More info at http://efektalab.com/wls52
 
 Contact: hello@efektalab.com
 
-_
-_
-_
 
 
+---
+
+---
 
 Components (see also BOM.CSV):
 
