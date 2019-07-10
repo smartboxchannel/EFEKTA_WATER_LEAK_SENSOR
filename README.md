@@ -12,7 +12,7 @@ Contact: hello@efektalab.com
 
 Video(Standart version): https://youtu.be/5jZt3NWf9GA
 
-Video(Pro version): 
+Video(Pro version): https://youtu.be/BB_674CVZLk
 
 Video(Tiny version):
 
