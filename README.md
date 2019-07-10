@@ -6,6 +6,8 @@ More info at http://efektalab.com/wls52
 
 Contact: hello@efektalab.com
 
+Video: https://youtu.be/5jZt3NWf9GA
+
 
 
 ---
