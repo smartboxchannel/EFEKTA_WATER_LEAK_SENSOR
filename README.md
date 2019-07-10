@@ -18,9 +18,13 @@ Video: https://youtu.be/5jZt3NWf9GA
 
 ---
 
-Components(Standart version) (see also BOM.CSV):
+Components (see also BOM.CSV):
 
-YJ-17103 - http://ali.ski/1Hm3u
+YJ-17103 (Standart version) - http://ali.ski/1Hm3u
+
+YJ-17029 (Pro version) - http://ali.ski/q58oo
+
+SKB369 (Tiny version) - http://ali.ski/WdZx8
 
 SN74LVC1G00 - http://ali.ski/iLK_F
 
@@ -32,7 +36,11 @@ SN74LVC1G00 - http://ali.ski/iLK_F
 
 2UF | 50v | +80-20% | SMD 0805 | SMD ceramic capacitor 2UF | Y5V - http://ali.ski/nnISH
 
-CR2450 Battery Socket Holder Case (TBH-CR2450-03) - http://ali.ski/49emH8
+(Standart version) CR2450 Battery Socket Holder Case (TBH-CR2450-03) - http://ali.ski/49emH8
+
+(Pro version) 14250 Battery Holder 1/2 AA - http://ali.ski/ul0KpU
+
+(Tiny version) CR2032 plastic button cell battery base holder - http://ali.ski/YCrdZ
 
 Micro Button Tact Switch SMD 4Pin 3X4X2.5MM White(2) - http://ali.ski/8wHa4-
 
@@ -55,12 +63,17 @@ Micro Button Tact Switch SMD 4Pin 3X4X2.5MM White(2) - http://ali.ski/8wHa4-
 RGB LED | SMD 0805 | RGBL | RGB LED - http://ali.ski/BPc4y
 
 
+
 M1.4 4mm Round Head Micro Screws(4) - http://ali.ski/sV_W2
 
-M3 11mm Nickel plated Brass Standoff Spacer Female(2) - http://ali.ski/gxLz3d
+(Standart version) M3 11mm Nickel plated Brass Standoff Spacer Female(2) - http://ali.ski/gxLz3d
+
+(Pro version) M3 15mm Nickel plated Brass Standoff Spacer Female(2) - http://ali.ski/gxLz3d
 
 M3 6mm Hexagon Socket Thin low Short Head Cap Screw(2) - http://ali.ski/y_jhn
 
 M3 4mm Hexagon Socket Button Head Screws(2) - http://ali.ski/Fsm9k
 
+
 ANYCUBIC 405nm UV Resin For Photon 3D Printer - http://ali.ski/MQ5yO3
+
