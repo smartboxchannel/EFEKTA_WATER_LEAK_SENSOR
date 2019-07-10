@@ -1,4 +1,8 @@
-Wireless Water Leak sensor based on nRF52832. Running on cr2477 battery (900mA).
+Wireless Water Leak sensor based on nRF52832. 
+
+Standart version running on cr2477 battery (900mA).
+Pro version running on 2/AA(14250) battery (1200mA).
+Tiny version running on cr2032 battery (200mA).
 
 Use the MySensors library
 
@@ -14,7 +18,7 @@ Video: https://youtu.be/5jZt3NWf9GA
 
 ---
 
-Components (see also BOM.CSV):
+Components(Standart version) (see also BOM.CSV):
 
 YJ-17103 - http://ali.ski/1Hm3u
 
