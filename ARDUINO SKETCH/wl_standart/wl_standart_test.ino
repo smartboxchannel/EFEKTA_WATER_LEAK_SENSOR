@@ -65,7 +65,7 @@ void before()
 }
 
 void presentation() {
-  sendSketchInfo("EFEKTA PRO WL Sensor", "1.1");
+  sendSketchInfo("EFEKTA ST WL Sensor", "1.1");
   present(W_L_SENS_CHILD_ID, S_CUSTOM, "SWITCH STATUS");
   present(LINK_QUALITY_CHILD_ID, S_CUSTOM, "LINK_QUALITY");
 }
