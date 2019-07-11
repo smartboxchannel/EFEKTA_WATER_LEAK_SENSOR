@@ -32,7 +32,7 @@ SKB369 (Tiny version) - http://ali.ski/WdZx8
 
 SN74LVC1G00 - http://ali.ski/iLK_F
 
-1PS76SB10.115(SOD-323) SMD Schottky Barrier Diode(2шт) - http://ali.ski/5dTu7U
+1PS76SB10.115(SOD-323) SMD Schottky Barrier Diode(2) - http://ali.ski/5dTu7U
 
 100UF 107C D-type SMD Tantalum Capacitor - http://ali.ski/-NkuK
 
@@ -52,7 +52,7 @@ Micro Button Tact Switch SMD 4Pin 3X4X2.5MM White(2) - http://ali.ski/8wHa4-
 
 10K | 5% | SMD 0603 | SMD resistor 10K Ohm(3) - http://ali.ski/1xMf-
 
-100K | 5% | SMD 0603 | SMD resistor 100K Ohm(3) - http://ali.ski/1xMf-
+100K | 5% | SMD 0603 | SMD resistor 100K Ohm - http://ali.ski/1xMf-
 
 2K7 | 5% | SMD 0603 | SMD resistor 2K7 Ohm - http://ali.ski/1xMf-
 
