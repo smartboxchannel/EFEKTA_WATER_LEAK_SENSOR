@@ -46,5 +46,3 @@ static const uint8_t A7  = ADC_A7;
 #endif
 
 #endif
-Фото датчика:
-Spoiler
