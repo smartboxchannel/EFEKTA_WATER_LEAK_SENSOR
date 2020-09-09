@@ -6,9 +6,9 @@ Tiny version running on cr2032 battery (200mA).
 
 Use the MySensors library
 
-#### Donate me :)
+#### Donate me, ..I will make more and faster open devices :)
 
-PayPal: altigraph@yandex.com
+PayPal: altigraph@ya.ru
 
 Yandex Money: 4100140180242
 
