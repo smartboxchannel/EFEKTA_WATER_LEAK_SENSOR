@@ -6,6 +6,16 @@ Tiny version running on cr2032 battery (200mA).
 
 Use the MySensors library
 
+#### Donate me :)
+
+PayPal: altigraph@yandex.com
+
+Yandex Money: 4100140180242
+
+WebMoney: Z722291985192, X133903637383, R494367503336
+
+Bitcoin: bc1q3prwstl54j3a5j58esepfkyrqfjn0ydr8p3vc7
+
 More info at http://efektalab.com/wls52
 
 Contact: hello@efektalab.com
